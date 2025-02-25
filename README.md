@@ -21,9 +21,6 @@ This project processes XML input files to extract and validate various parameter
    ```sh
    git clone <repository-url>
    ```
-   ```sh
-   pip install -r requirements.txt
-   ```
 
 ## To Run
    Run the script with an XML file (input.xml) as input:

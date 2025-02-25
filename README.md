@@ -18,16 +18,16 @@ This project processes XML input files to extract and validate various parameter
 ## Installation
 
 1. Clone the repository:
+   ```sh
    git clone <repository-url>
+   ```
+   ```sh
    pip install -r requirements.txt
+   ```
 
-## Usage
+## To Run
+   Run the script with an XML file (input.xml) as input:
+   ## Command:
+      python main.py
 
-Run the script with an XML file (input.xml) as input:
-
-python main.py
-
-## License
-
-This project is licensed under the MIT License.
 
